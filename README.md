@@ -17,16 +17,16 @@ Sou um estudante universitário, cursando Sistemas de Informações na Universid
 ## Conecte-se comigo 🌐
 Você pode me encontrar online em várias plataformas:
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/seu-nome-aqui)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/gustavoo151/)
 [![Twitter](https://img.shields.io/badge/Twitter-Follow-blue)](https://twitter.com/seu_nome_aqui)
 
 <!-- Estatísticas do GitHub -->
 ## Estatísticas do GitHub 📊
-![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=seu-username&show_icons=true&count_private=true&theme=dark)
+![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=gustavoo151&show_icons=true&count_private=true&theme=dark)
 
 <!-- Linguagens mais usadas -->
 ## Linguagens Mais Usadas 💻
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=seu-username&layout=compact&theme=dark)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gustavoo151&layout=compact&theme=dark)
 
 <!-- Projetos recentes -->
 ## Projetos Recentes 🛠️
