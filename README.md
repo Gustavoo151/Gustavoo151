@@ -1,13 +1,44 @@
-### Hi there 👋, Meu nome é Gustavo de oliveira.
-#### Estudante universitário, Cursando Sistemas de informações na UPE.
+<!-- Título -->
+# Olá! 👋 Meu nome é Gustavo de Oliveira.
 
-Eu sou estudante de sistemas de informações na universidade de pernambuco. Atualmente estou me especializando em Java e SpringBoot, e pretendo inicializar minha carreira no desenvolvimento de sistemas.
+<!-- Sobre mim -->
+Sou um estudante universitário, cursando Sistemas de Informações na Universidade de Pernambuco.
 
-Skills: Python / C / Java
+<!-- Sobre minha formação -->
+📚 Atualmente, estou me especializando em **Java** e **Spring Boot**, e estou ansioso para iniciar minha carreira no desenvolvimento de sistemas.
 
-- 🔭 I’m currently working on this page. 
+<!-- Habilidades -->
+## Habilidades 🚀
+- Python
+- C
+- Java
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Gustavoo151)](https://github.com/anuraghazra/github-readme-stats)
+<!-- Links para redes sociais -->
+## Conecte-se comigo 🌐
+Você pode me encontrar online em várias plataformas:
 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/seu-nome-aqui)
+[![Twitter](https://img.shields.io/badge/Twitter-Follow-blue)](https://twitter.com/seu_nome_aqui)
 
+<!-- Estatísticas do GitHub -->
+## Estatísticas do GitHub 📊
+![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=seu-username&show_icons=true&count_private=true&theme=dark)
 
+<!-- Linguagens mais usadas -->
+## Linguagens Mais Usadas 💻
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=seu-username&layout=compact&theme=dark)
+
+<!-- Projetos recentes -->
+## Projetos Recentes 🛠️
+- [Projeto 1](https://github.com/seu-username/projeto-1)
+- [Projeto 2](https://github.com/seu-username/projeto-2)
+
+<!-- Visão geral do perfil -->
+## Visão Geral do Perfil GitHub 🌟
+![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=seu-username&theme=dark)
+
+<!-- Gráfico de atividade -->
+## Gráfico de Atividade GitHub 📈
+![Gráfico de Atividade](https://activity-graph.herokuapp.com/graph?username=seu-username&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF)
+
+Espero que você ache este README útil e inspirador para o seu GitHub pessoal. Sinta-se à vontade para personalizá-lo de acordo com suas preferências e adicionar mais seções ou informações conforme necessário. Boa sorte em sua jornada de desenvolvimento de sistemas! 👨‍💻🚀
