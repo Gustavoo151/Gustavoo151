@@ -41,4 +41,8 @@ Você pode me encontrar online em várias plataformas:
 ## Gráfico de Atividade GitHub 📈
 ![Gráfico de Atividade](https://activity-graph.herokuapp.com/graph?username=Gustavoo151&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF)
 
+<!-- Estatísticas de visitantes do perfil -->
+## Estatísticas de Visitantes do Perfil 📊
+![Visitantes do Perfil](https://visitor-badge.glitch.me/badge?page_id=Gustavoo151)
+
 Espero que você ache este README útil e inspirador para o seu GitHub pessoal. Sinta-se à vontade para personalizá-lo de acordo com suas preferências e adicionar mais seções ou informações conforme necessário. Boa sorte em sua jornada de desenvolvimento de sistemas! 👨‍💻🚀
