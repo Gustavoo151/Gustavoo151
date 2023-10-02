@@ -30,8 +30,8 @@ Você pode me encontrar online em várias plataformas:
 
 <!-- Projetos recentes -->
 ## Projetos Recentes 🛠️
-- [Projeto 1](https://github.com/seu-username/projeto-1)
-- [Projeto 2](https://github.com/seu-username/projeto-2)
+- [Projeto 1](https://github.com/gustavoo151/Crud-com-Angular-e-Spring-Boot)
+- [Projeto 2](https://github.com/gustavoo151/MemoryGame)
 
 <!-- Visão geral do perfil -->
 ## Visão Geral do Perfil GitHub 🌟
