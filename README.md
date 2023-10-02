@@ -31,7 +31,7 @@ Você pode me encontrar online em várias plataformas:
 <!-- Projetos recentes -->
 ## Projetos Recentes 🛠️
 - [Plataforma de Cursos](https://github.com/gustavoo151/Crud-com-Angular-e-Spring-Boot)
-- [Projeto 2](https://github.com/gustavoo151/MemoryGame)
+- [Jogo da memória](https://github.com/gustavoo151/MemoryGame)
 
 <!-- Visão geral do perfil -->
 ## Visão Geral do Perfil GitHub 🌟
