@@ -22,11 +22,11 @@ Você pode me encontrar online em várias plataformas:
 
 <!-- Estatísticas do GitHub -->
 ## Estatísticas do GitHub 📊
-![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=gustavoo151&show_icons=true&count_private=true&theme=dark)
+![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=Gustavoo151&show_icons=true&count_private=true&theme=dark)
 
 <!-- Linguagens mais usadas -->
 ## Linguagens Mais Usadas 💻
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gustavoo151&layout=compact&theme=dark)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Gustavoo151&layout=compact&theme=dark)
 
 <!-- Projetos recentes -->
 ## Projetos Recentes 🛠️
@@ -35,10 +35,10 @@ Você pode me encontrar online em várias plataformas:
 
 <!-- Visão geral do perfil -->
 ## Visão Geral do Perfil GitHub 🌟
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=seu-username&theme=dark)
+![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=Gustavoo151&theme=dark)
 
 <!-- Gráfico de atividade -->
 ## Gráfico de Atividade GitHub 📈
-![Gráfico de Atividade](https://activity-graph.herokuapp.com/graph?username=seu-username&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF)
+![Gráfico de Atividade](https://activity-graph.herokuapp.com/graph?username=Gustavoo151&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF)
 
 Espero que você ache este README útil e inspirador para o seu GitHub pessoal. Sinta-se à vontade para personalizá-lo de acordo com suas preferências e adicionar mais seções ou informações conforme necessário. Boa sorte em sua jornada de desenvolvimento de sistemas! 👨‍💻🚀
