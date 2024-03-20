@@ -10,7 +10,6 @@ Sou um estudante universitário, cursando Sistemas de Informações na Universid
 <!-- Habilidades -->
 ## Habilidades 🚀
 - Python
-- C
 - Java
 
 <!-- Links para redes sociais -->
