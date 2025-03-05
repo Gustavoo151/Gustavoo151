@@ -15,7 +15,7 @@ Desenvolvedor com foco em soluções escaláveis e tecnologias modernas. Atualme
 
 <!-- Adicione suas experiências profissionais aqui -->
 - **Desenvolvedor Back-End** - [Navit] (11/2024 - presente)
- * Desenvolvimento e manutenção de APIs RESTful com Node.js e TypeScript
+  * Desenvolvimento e manutenção de APIs RESTful com Node.js e TypeScript
 - **Desenvolvedor Back-End** - [Universidade de Pernambuco] (10/2023 - 11/2024)
   * Implementação de microserviços utilizando Spring Boot e Java
 
