@@ -9,7 +9,7 @@ Desenvolvedor com foco em soluções escaláveis e tecnologias modernas. Atualme
 
 ## 🎓 Formação
 
-- Bacharelado em Sistemas de Informação - Universidade de Pernambuco (em andamento)
+- Bacharelado em Sistemas de Informação - Universidade de Pernambuco
 
 ## 💼 Experiência Profissional
 
