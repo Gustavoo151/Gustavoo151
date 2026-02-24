@@ -16,7 +16,6 @@ Tenho forte experiência no planejamento e construção de APIs RESTful, sincron
 
 | 🏢 Instituição / Empresa | 📌 Cargo / Grau | 📅 Período | 💡 Destaques |
 | :--- | :--- | :--- | :--- |
-| **Navit** | Desenvolvedor Back-End | *11/2024 - Presente* | Desenvolvimento de APIs RESTful em Node.js e TypeScript, integrações complexas de dados e modernização de rotinas sistêmicas. |
 | **Universidade de Pernambuco** | Mestrando em Eng. da Computação | *Atual* | Pesquisa avançada envolvendo Inteligência Artificial e novas tecnologias. |
 | **Universidade de Pernambuco** | Desenvolvedor Back-End | *10/2023 - 11/2024* | Implementação, manutenção e evolução de microsserviços utilizando ecossistema Spring Boot e Java. |
 | **Universidade de Pernambuco** | Bacharel em Sistemas de Informação | *Concluído* | Formação com base sólida em estruturas de dados, algoritmos e engenharia de software. |
