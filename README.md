@@ -17,7 +17,8 @@ Tenho forte experiência no planejamento e construção de APIs RESTful, sincron
 | 🏢 Instituição / Empresa | 📌 Cargo / Grau | 📅 Período | 💡 Destaques |
 | :--- | :--- | :--- | :--- |
 | **Pitang** | Desenvolvedor Backend Pleno | *Atual* | Construindo e desenvolvendo soluções com foco na melhoria do sistema de transporte do Recife, alocado na CTM – Grande Recife. |
-| **Universidade de Pernambuco** | Mestrando em Eng. da Computação | *Atual* | Pesquisa avançada envolvendo Inteligência Artificial e novas tecnologias. |
+| **Universidade de Pernambuco** | Mestrando em Eng. da Computação | *Atual* | Construindo e desenvolvendo soluções com foco na melhoria industria com analise. |
+| **Navit Soluções** | Desenvolvedor Backend | *11/2025 - 12-2025* | Construindo e desenvolvendo soluções com foco na melhoria da indústria, por meio de sistemas de análise em tempo real e alto processamento de dados. |
 | **Universidade de Pernambuco** | Desenvolvedor Back-End | *10/2023 - 11/2024* | Implementação, manutenção e evolução de microsserviços utilizando ecossistema Spring Boot e Java. |
 | **Universidade de Pernambuco** | Bacharel em Sistemas de Informação | *Concluído* | Formação com base sólida em estruturas de dados, algoritmos e engenharia de software. |
 
